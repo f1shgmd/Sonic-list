@@ -1,18 +1,18 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "f1shgmd",
+        "link": "https://www.youtube.com/@f1shgmd"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Ayro",
+        "link": "https://www.youtube.com/@"
     },
     {
-        "role": "helper",
+        "role": "admin",
         "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@Rylanmmb"
     },
     {
         "role": "trial",
